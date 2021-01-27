@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+header{
+    background-color: #b8b6b6;
+}
+
+a {
+    font-weight: bold;
+    background-color:#dbd9d9;
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #d92525;
+}
+
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    color: #e3e8e5;
+}
+
+section {
+    background-color: #7a7d7b;
+    text-align: justify;
+}
+
+h2 {
+    text-transform: uppercase;
+    color: #0461b3;
+    padding: 10px;
+}
+
+aside {
+    display: none;
+}
